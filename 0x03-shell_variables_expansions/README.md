@@ -1,1 +1,0 @@
-this is avariable expansion examples.
